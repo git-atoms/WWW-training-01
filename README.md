@@ -69,7 +69,9 @@
 > * tytuł zakładki (tab) w przeglądarce:
 
 ```html
-<title>Moja strona</title>
+<head>
+    <title>Moja strona</title>
+</head>
 ```
 > 
 
