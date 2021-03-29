@@ -48,4 +48,20 @@
 <br>
 <br>
 
-1.
+1. Zanim zaczniemy... :)
+2. HTML - wprowadzenie
+3. Visual Studio Code
+4. Lista wtyczek i ustawień do VSC
+5. Podstawowa struktura HTML
+6. Główne tagi HTML cz. 1
+7. Główne tagi w HTML cz. 2
+8. Metatagi
+9. Formularze
+10. Formatowanie i zabawa z tekstem
+11. Listy w HTML
+12. Tabele w HTML
+13. Tagi SCRIPT
+14. Pozostałe tagi HTML
+15. DOCTYPE & HTML lang
+16. Wprowadzenie do zadania: Stwórz podobną stronę
+17. Rozwiązanie zadania
