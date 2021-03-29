@@ -53,6 +53,31 @@
 3. Visual Studio Code
 4. Lista wtyczek i ustawień do VSC
 5. Podstawowa struktura HTML
+
+<br>
+
+> W sekcji
+
+```html
+<head>
+
+</head>
+```
+> umieszczamy
+> * nasze metatagi, czyli wszystkie niezbędne dane (choćby dla przeglądarki /wyszukiwarki),
+> * wszystkie informacje na temat styli naszych CSS
+> * tytuł zakładki (tab) w przeglądarce:
+
+```html
+<title>Moja strona</title>
+```
+> 
+
+
+<br>
+<br>
+
+
 6. Główne tagi HTML cz. 1
 7. Główne tagi w HTML cz. 2
 8. Metatagi
