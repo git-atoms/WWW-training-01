@@ -133,14 +133,35 @@
 <head>
 
 
-<!--  -->
+<!-- "Ciało" naszej strony WWW, umieszczamy w nim treść, obrazy, formularze, itd -->
 <body>
+
+
+<!-- Dobry przyjaciel, w którym możemy trzymać inne tagi -->
 <div>
+
+
+<!-- Paragraf, umieszczamy w nim tekst -->
 <p>
+
+
+<!-- Nagłówki -->
 <h1-h6>
+
+
+<!-- Umieszczamy w nim obrazy -->
 <img>
+
+
+<!-- Umieszczamy w nim linki -->
 <a>
+
+
+<!-- Dla CSS ale możemy też użyć <link> -->
 <style>
+
+
+<!-- Dla JavaScript -->
 <script>
 ```
 
