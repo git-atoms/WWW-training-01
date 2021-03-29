@@ -16,6 +16,12 @@
 2. Projekty, które zrobimy w kursie.
 3. Discord czyli dodatkowa pomoc i więcej :)
 4. Krótkie ogłoszenie
+
+[Strona prowadzącego](https://mmcschool.pl/)
+
+<br>
+<br>
+
 5. Jak oglądać kurs w lepszej jakości niż 720p?
 6. Darmowe materiały naukowe
 7. Z jakiej przeglądarki korzystać?
