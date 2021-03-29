@@ -185,6 +185,11 @@ Stosując się do zasad semantyki, ułatwiamy np. korzystanie ze stron WWW osobo
  * Dla programistów<br>
  Jeden standard pisania przez nas kodu, pomaga tworzyć lepsze aplikacje innym.
 
+<br>
+
+ * Dla SEO<br>
+Nasza strona będzie wyżej notowana (wyszukiwarki lepiej dopasują treść) i przez to ma szansę odwiedzić nas więcej osób.<br>
+np. nagłówek H1 powinien być użyty tylko raz na stronę albo raz na sekcję.
 
 <br>
 <br>
