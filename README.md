@@ -73,7 +73,14 @@
     <title>Moja strona</title>
 </head>
 ```
-> 
+
+<br>
+
+> Komentowanie w HTML
+
+```html
+<!-- Tak wygląda komentarz w HTML -->
+```
 
 
 <br>
