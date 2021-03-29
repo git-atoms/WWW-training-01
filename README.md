@@ -85,6 +85,40 @@
 
 
 <br>
+
+> W sekcji
+```html
+<body>
+</body>
+```
+> umieszczamy
+> * obrazki (img)
+```html
+<img src="" alt="">
+```
+<br>
+
+> * linki (a)
+```html
+<a href=""></a>
+```
+<br>
+
+> * paragrafy = nasz tekst (p)
+```html
+<p>
+</p>
+```
+<br>
+
+> * formularze (input)
+```html
+<input type="text" name="" id="">
+```
+
+
+
+<br>
 <br>
 
 
