@@ -122,15 +122,40 @@
 <br>
 
 
-6. Główne tagi HTML cz. 1
-7. Główne tagi w HTML cz. 2
-8. Metatagi
-9. Formularze
-10. Formatowanie i zabawa z tekstem
-11. Listy w HTML
-12. Tabele w HTML
-13. Tagi SCRIPT
-14. Pozostałe tagi HTML
-15. DOCTYPE & HTML lang
-16. Wprowadzenie do zadania: Stwórz podobną stronę
-17. Rozwiązanie zadania
+6. Semantyka i najczęściej używane tagi HTML
+
+```html
+<!-- Najważniejszy w całej strukturze -->
+<html>
+
+
+<!-- Tag od "myślenia", umieszczamy w nim metadane i skrypty -->
+<head>
+
+
+<!--  -->
+<body>
+<div>
+<p>
+<h1-h6>
+<img>
+<a>
+<style>
+<script>
+```
+
+<br>
+<br>
+
+7. Główne tagi HTML cz. 1
+8. Główne tagi w HTML cz. 2
+9. Metatagi
+10. Formularze
+11. Formatowanie i zabawa z tekstem
+12. Listy w HTML
+13. Tabele w HTML
+14. Tagi SCRIPT
+15. Pozostałe tagi HTML
+16. DOCTYPE & HTML lang
+17. Wprowadzenie do zadania: Stwórz podobną stronę
+18. Rozwiązanie zadania
