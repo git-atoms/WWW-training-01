@@ -81,7 +81,7 @@
 ```html
 <!-- Tak wygląda komentarz w HTML -->
 ```
-> w VisualStudio Code i w WebStorm, skrótem do komentarza jest CTRL + i + /
+> w VisualStudio Code i w WebStorm, skrótem do komentarza jest CTRL + /
 
 
 <br>
