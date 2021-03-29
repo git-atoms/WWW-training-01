@@ -195,6 +195,11 @@ np. nagłówek H1 powinien być użyty tylko raz na stronę albo raz na sekcję.
 <br>
 
 7. Główne tagi HTML cz. 1
+
+<br>
+<br>
+
+
 8. Główne tagi w HTML cz. 2
 9. Metatagi
 10. Formularze
