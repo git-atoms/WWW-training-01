@@ -172,10 +172,19 @@
 > SEMANTYKA<br>
 > Zbiór dobrych zasad /praktyk, stosowanych przy tworzeniu strony WWW<br>
  
- * Dla deweloperów
+ * Dla deweloperów<br>
+ "Zielone światło / czerwone światło" - międzynarodowe zasady /praktyki.<br>
 
- <br>
- "Zielone światło / czerwone światło" - międzynarodowe zasady.
+<br>
+
+ * Dla osób niewidomych<br>
+Stosując się do zasad semantyki, ułatwiamy np. korzystanie ze stron WWW osobom niewidomym (via Screen Reader).<br>
+
+<br>
+
+ * Dla programistów<br>
+ Jeden standard pisania przez nas kodu, pomaga tworzyć lepsze aplikacje innym.
+
 
 <br>
 <br>
