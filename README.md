@@ -124,6 +124,8 @@
 
 6. Semantyka i najczęściej używane tagi HTML
 
+
+>TAGI
 ```html
 <!-- Najważniejszy w całej strukturze -->
 <html>
@@ -164,6 +166,16 @@
 <!-- Dla JavaScript -->
 <script>
 ```
+
+<br>
+
+> SEMANTYKA<br>
+> Zbiór dobrych zasad /praktyk, stosowanych przy tworzeniu strony WWW<br>
+ 
+ * Dla deweloperów
+
+ <br>
+ "Zielone światło / czerwone światło" - międzynarodowe zasady.
 
 <br>
 <br>
