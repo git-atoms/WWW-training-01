@@ -196,7 +196,7 @@ np. nagłówek H1 powinien być użyty tylko raz na stronę albo raz na sekcję.
 
 7. **Główne tagi HTML cz. 1**
 
->Elementy blokowe
+>Elementy blokowe - zajmują całą dostępną szerokość swojego rodzica (parent).
 
 ```html
 <div></div>
