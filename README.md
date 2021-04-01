@@ -208,7 +208,7 @@ np. nagłówek H1 powinien być użyty tylko raz na stronę albo raz na sekcję.
 
 <br>
 
->Elementy liniowe
+>Elementy liniowe - zajmuje tylko tyle przestrzeni ile faktycznie potrzebuje.
 
 ```html
 <span></span>
