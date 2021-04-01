@@ -48,11 +48,11 @@
 <br>
 <br>
 
-1. Zanim zaczniemy... :)
-2. HTML - wprowadzenie
-3. Visual Studio Code
-4. Lista wtyczek i ustawień do VSC
-5. Podstawowa struktura HTML
+1. **Zanim zaczniemy... :)**
+2. **HTML - wprowadzenie**
+3. **Visual Studio Code**
+4. **Lista wtyczek i ustawień do VSC**
+5. **Podstawowa struktura HTML**
 
 <br>
 
@@ -122,7 +122,7 @@
 <br>
 
 
-6. Semantyka i najczęściej używane tagi HTML
+6. **Semantyka i najczęściej używane tagi HTML**
 
 
 >TAGI
@@ -194,7 +194,26 @@ np. nagłówek H1 powinien być użyty tylko raz na stronę albo raz na sekcję.
 <br>
 <br>
 
-7. Główne tagi HTML cz. 1
+7. **Główne tagi HTML cz. 1**
+
+>Elementy blokowe
+
+```html
+<div></div>
+```
+
+```html
+<p></p>
+```
+
+<br>
+
+>Elementy liniowe
+
+```html
+<span></span>
+```
+
 
 <br>
 <br>
