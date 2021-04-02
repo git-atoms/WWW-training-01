@@ -234,7 +234,7 @@ MDN - **M**ozilla **D**eveloper **N**etwork
 <main></main>
 <footer></footer>
 ```
->tag
+>Tag **main** może być tylko jeden. Jeśli występuje kilka razy to błąd.
 
 <br>
 <br>
