@@ -251,6 +251,12 @@ MDN - **M**ozilla **D**eveloper **N**etwork
 
 
 9. Metatagi
+>Umieszczamy je w sekcji HEAD (to ich charakterystyczna cecha).
+
+
+<br>
+<br>
+
 10. Formularze
 11. Formatowanie i zabawa z tekstem
 12. Listy w HTML
