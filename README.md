@@ -232,6 +232,9 @@ MDN - **M**ozilla **D**eveloper **N**etwork
 <nav></nav>
 <header></header>
 <main></main>
+<section></section>
+<article></article>
+<aside></aside>
 <footer></footer>
 ```
 >Tag **main** może być tylko jeden. Jeśli występuje kilka razy to błąd.
