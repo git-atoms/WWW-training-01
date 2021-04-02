@@ -216,7 +216,8 @@ np. nagłówek H1 powinien być użyty tylko raz na stronę albo raz na sekcję.
 
 <br>
 
-A [tutaj jest](https://developer.mozilla.org/pl/docs/web/HTML) bardzo fajna dokumentacja HTML.
+A [tutaj jest](https://developer.mozilla.org/pl/docs/web/HTML) bardzo fajna dokumentacja HTML.<br>
+MDN - **M**ozilla **D**eveloper **N**etwork
 
 
 <br>
@@ -224,6 +225,16 @@ A [tutaj jest](https://developer.mozilla.org/pl/docs/web/HTML) bardzo fajna doku
 
 
 8. Główne tagi w HTML cz. 2
+
+>Aby było semantycznie używamy obecnie następujących tagów klas:
+
+```html
+<nav></nav>
+<header></header>
+<main></main>
+<footer></footer>
+```
+
 9. Metatagi
 10. Formularze
 11. Formatowanie i zabawa z tekstem
