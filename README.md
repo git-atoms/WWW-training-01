@@ -231,9 +231,13 @@ MDN - **M**ozilla **D**eveloper **N**etwork
 ```html
 <nav></nav>
 <header></header>
+
+<!-- Najważniejsza sekcja -->
 <main></main>
 <section></section>
 <article></article>
+
+<!-- Poboczna sekcja np. na reklamy -->
 <aside></aside>
 <footer></footer>
 ```
